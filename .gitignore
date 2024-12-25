@@ -3,3 +3,4 @@ not-mine
 shared/upload-to-imgur/config.plist
 node_modules
 kaomoji.lbaction
+.DS_Store
